@@ -1,4 +1,4 @@
-# 🏦 Conciliação Bancária
+# Conciliação Bancária
 
 [![Testes](https://github.com/gabriellapresbitero/conciliacao-bancaria/actions/workflows/testes.yml/badge.svg)](https://github.com/gabriellapresbitero/conciliacao-bancaria/actions/workflows/testes.yml)
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white)
